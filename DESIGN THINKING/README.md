@@ -3,7 +3,7 @@
 ## 📖 Project Overview
 **UTM Transport** is a conceptual mobile application designed to solve transportation challenges within the UTM campus. Our goal is to provide students and staff with a seamless, eco-friendly, and efficient way to commute.
 
-This project covers the complete design thinking process, prototyping, and system proposal.
+This project covers the complete design thinking process and prototyping.
 
 ---
 

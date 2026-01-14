@@ -28,5 +28,5 @@ Here you can access all the documentation and presentation materials for this as
 | Material | Description | Format |
 | :--- | :--- | :---: |
 | **📄 Full Report** | Complete documentation of the project, including problem analysis and solution design. | [View PDF](Design%20Thinking%20Report.pdf) |
-| **📊 Presentation Slides** | Slides used during the pitch presentation. | [View PPT](Presentation%20of%20design%20thinking%20project.pptx) |
+| **📊 Presentation Slides** | Slides used during the pitch presentation. | [View PPT](Presentation%20of%20design%20thinking%20project.pdf) |
 | **🎥 Video** | Visual walkthrough of the prototype and the report  | [Watch Video](https://www.youtube.com/watch?v=tfrXixnPDYE)

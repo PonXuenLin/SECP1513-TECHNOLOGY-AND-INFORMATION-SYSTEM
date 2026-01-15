@@ -7,4 +7,4 @@
 
 ### 🚀 Suggestions for Improvement
 * **Feature Enhancement (Safety):** Reflecting on the user safety aspect, I plan to introduce a **"Report & SOS" feature** for the *Book & Drive* module. While we currently verify drivers, adding a reporting mechanism ensures users have a voice and recourse if incidents occur, creating a truly secure community.
-* **Skill Development:** I intend to participate in Cybersecurity competitions to gain hands-on experience in handling real-world security issues, balancing my design skills with technical defense capabilities.
+
